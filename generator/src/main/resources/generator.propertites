@@ -1,0 +1,5 @@
+jdbc.driverLocation=D:\\BaiduNetdiskDownload\\mysql-connector-java-5.1.37\\mysql-connector-java-5.1.37-bin.jar
+jdbc.driverClass=com.mysql.jdbc.Driver
+jdbc.connectionURL=jdbc:mysql:///e3mall
+jdbc.userId=root
+jdbc.password=123
